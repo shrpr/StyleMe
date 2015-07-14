@@ -2,7 +2,7 @@
 
 What to wear? What to wear?
 
-StyleMe has the answer for guys with style (or who couldn't be bothered coming up with a look): This is a simple lookbook app for men that's meant to demo the Zalando REST API integration with a Windows Phone app.
+StyleMe has the answer for guys with style (or who couldn't be bothered coming up with a look): This is a simple fashion lookbook Windows Phone App for men that's meant to demo the Zalando REST API integration with a Windows Phone app.
 
 Create YOUR look now or challenge your friends to wear a random style.
 
